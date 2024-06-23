@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0514f472.css",
+    "main.js": "/static/js/main.d37a3b67.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/biomass-pellets2.webp": "/static/media/biomass-pellets2.3d5ad6c81b447bb909d4.webp",
+    "static/media/charcoal2.jpg": "/static/media/charcoal2.b7a559199dc96c3be30e.jpg",
+    "static/media/biomass_pellets.jpg": "/static/media/biomass_pellets.7ee214c879d9eeb6040e.jpg",
+    "static/media/biomass_briquette.jpg": "/static/media/biomass_briquette.de18bf8b50fb4cfba59d.jpg",
+    "static/media/babool-long-wood.jpg": "/static/media/babool-long-wood.883c18caa366e6741f24.jpg",
+    "static/media/firewsood.jpg": "/static/media/firewsood.a00b922926f23eb186e4.jpg",
+    "static/media/rice_husk.jpg": "/static/media/rice_husk.e5e8177316211c57cf33.jpg",
+    "static/media/coal.webp": "/static/media/coal.9cefc1f0ca0c40a648a5.webp",
+    "static/media/charcoal.webp": "/static/media/charcoal.1aa7ef5fc1d6b3e6d185.webp",
+    "static/media/Biomass Briquettes_2.webp": "/static/media/Biomass Briquettes_2.8e9ae3168be7127bbbf9.webp",
+    "static/media/firewood.webp": "/static/media/firewood.8559dc3547b4949c46f9.webp",
+    "static/media/wow.jpg": "/static/media/wow.23a4ad7c4340b743cab2.jpg",
+    "static/media/firewood3.webp": "/static/media/firewood3.f412a675c5f906fe7fca.webp",
+    "static/media/firewood4.webp": "/static/media/firewood4.1309976744f18fc5b477.webp",
+    "static/media/radico.png": "/static/media/radico.f711c27ce0acdd79cd37.png",
+    "static/media/biomass-pellets.jpg": "/static/media/biomass-pellets.6725379f6956b745d982.jpg",
+    "static/media/allana.png": "/static/media/allana.c2a5ecaa937f3744fb28.png",
+    "static/media/solvex.png": "/static/media/solvex.d693b2ce476cc6884f28.png",
+    "index.html": "/index.html",
+    "main.0514f472.css.map": "/static/css/main.0514f472.css.map",
+    "main.d37a3b67.js.map": "/static/js/main.d37a3b67.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0514f472.css",
+    "static/js/main.d37a3b67.js"
+  ]
+}
